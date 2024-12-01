@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import serial
+#import serial
 
 # Setting up the connection with Arduino
 arduino = serial.Serial('/dev/ttyUSB0', 9600) # Define the port
@@ -80,7 +80,7 @@ def index():
         color: #333;
     }
     </style>
-    # BUTTONS FOR COMMANDS
+        <!--BUTTONS FOR COMMANDS-->
     </head>
     <body>
     <div class="container">
@@ -98,7 +98,7 @@ def index():
         </div>
         <div id="status">Status: Waiting for command...</div>
     </div>
-    # FUNCTION TO SEND MOVEMENT COMMANDS TO THE SERVER BASED ON THE SPECIFIED DIRECTION
+        <!--FUNCTION TO SEND MOVEMENT COMMANDS TO THE SERVER BASED ON THE SPECIFIED DIRECTION-->
     <script>
     function sendCommand(direction) {
         fetch('/move', {
@@ -136,4 +136,5 @@ def move():
         return jsonify({'message': 'Unrecognized command'}), 400 #NOT WORKING 
 # Starts the app.
 if __name__ == '__main__':
-    app.run(host='192.168.1.100', port=4353) #APP START IN 192.168.1.100 AND PORT 4353 
+    app.run(host='0.0.0.0', port=4353)  # App will start on your IP (EXAMPLE) 192.168.1.100 and port 4353
+
