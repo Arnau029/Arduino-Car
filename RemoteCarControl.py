@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-#import serial
+import serial
 
 # Setting up the connection with Arduino
 arduino = serial.Serial('/dev/ttyUSB0', 9600) # Define the port
