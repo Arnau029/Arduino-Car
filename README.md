@@ -22,3 +22,9 @@ This project enables remote control of an Arduino-based car through a web interf
 * The code for Arduino doesn't need dependencies.
 # Previews Web (MOBILE AND PC)
 ![screenshot](https://github.com/Arnau029/Arduino-Car/blob/main/Image/MOBILE_AND_PC.png)
+# Movments
+### Movement Demonstrations
+
+| **Forward** | **Backward** | **Left** | **Right** |
+|-------------|--------------|----------|-----------|
+| ![Forward](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/forward.gif) | ![Backward](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/Backwards.gif) | ![Left](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/To_The_Left.gif) | ![Right](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/To_The_Right.gif) |
