@@ -49,6 +49,17 @@ This project showcases how to integrate an Arduino with Python's Flask framework
 |-------------|--------------|----------|-----------|
 | ![Forward](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/forward.gif) | ![Backward](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/Backwards.gif) | ![Left](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/To_The_Left.gif) | ![Right](https://github.com/Arnau029/Arduino-Car/blob/main/GIFs/To_The_Right.gif) |
 # Project contributors
+We are grateful for the efforts of the following contributors who made this project possible:
+
+<a href="https://github.com/Arnau029">
+  <img src="https://github.com/Arnau029/Arduino-Car/blob/main/Contributors/Arnau.jpg" alt="Arnau" width="100" style="border-radius: 10px; margin-right: 5px;">
+</a>
+<a href="https://github.com/JitaProg">
+  <img src="https://github.com/Arnau029/Arduino-Car/blob/main/Contributors/Borja.jpg" alt="Borja" width="100" style="border-radius: 10px; margin-right: 5px;">
+</a>
+<a href="https://github.com/EtreveSTDNT">
+  <img src="https://github.com/Arnau029/Arduino-Car/blob/main/Contributors/Etreve.png" alt="Etreve" width="100" style="border-radius: 10px;">
+</a>
 
 # License
 This project is licensed under the MIT License.
