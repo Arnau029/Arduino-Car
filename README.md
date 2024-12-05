@@ -62,4 +62,4 @@ We are grateful for the efforts of the following contributors who made this proj
 </a>
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Arnau029/Arduino-Car/blob/main/LICENSE).
