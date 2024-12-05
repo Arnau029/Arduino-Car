@@ -11,7 +11,7 @@ This project enables remote control of an Arduino-based car through a web interf
 7. [Project contributors](#project-contributors)
 8. [License](#license)
 ## Description
-This project showcases how to integrate an Arduino with Python's Flask framework to create an interactive car controller. It serves as a practical example of IoT and robotics integration, perfect for learning or demonstrating microcontroller-based projects.
+This project showcases how to integrate an Arduino with Python's Flask framework to create an interactive car controller. It serves as a practical example of robotics integration, perfect for learning microcontroller-based projects.
 * **For this code, you need Arduino IDE and a compiler for Python.**
 # Requirements
 > [!IMPORTANT]
